@@ -3,7 +3,7 @@ Lex ve Bison gibi toollari kullandigim icin projeyi Linux tabanli isletim sistem
 
 butunleme directory sinde ./hesapmakinesi komutu ile programi calistirabilirsiniz. 
 
-programi yeniden build etmek istiyorsaniz makefile dahil edilmistir. 'make' yazarak programi build eder ve ardindan ./hesapmakinesi komutu ile calistirabilirsiniz.
+programi yeniden build etmek istiyorsaniz makefile dahil edilmistir. 'make' yazarak programi build eder ve ardindan ./hesapmakinesi komutu ile calistirabilirsiniz.(Bu asamada lex ve bison toollarina ihtiyac duyarsiniz.)
 
 Demo Linki: https://youtu.be/ZDYE5xcvZQA
 
